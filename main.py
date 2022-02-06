@@ -13,7 +13,7 @@ from visualise import draw_risk
 config = {"lessons_learned_file": "lessons_learned.csv",
           "project_plan_file": "project_plan.pdf",
           "project_data_file": "astrobee.json",
-          "parse_project_plan": False,
+          "parse_project_plan": True,
           "train": False,
           "recommendation_weight": 0.25,
           "num_similar_docs": 5,
