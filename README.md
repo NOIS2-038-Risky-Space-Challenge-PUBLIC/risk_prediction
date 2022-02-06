@@ -78,11 +78,11 @@ The risk keywords `risk_labels` in `main.py` contains characteristic keyworks ta
 
 ### Astrobee predicted project risk 
 
-![astrobee](https://github.com/alexanderpoplavsky/risk_prediction/images/astrobee.png)
+![astrobee](./images/astrobee.png)
 
 ### Synbio predicted project risk
 
-![synbio](https://github.com/alexanderpoplavsky/risk_prediction/images/synbio.png)
+![synbio](./images/synbio.png)
 
 
 <!-- LICENSE -->
