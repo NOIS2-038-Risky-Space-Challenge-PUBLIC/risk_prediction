@@ -88,7 +88,7 @@ The risk keywords `risk_labels` in `main.py` contains characteristic keyworks ta
 <!-- LICENSE -->
 ## License
 
-Distributed under the TBAL (To Be Added Later) License. 
+Distributed under the Apache License, Version 2.0.
 
 <!-- CONTACT -->
 ## Contact
